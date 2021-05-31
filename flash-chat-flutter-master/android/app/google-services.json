@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770516570175",
+    "project_id": "eduardo-chat",
+    "storage_bucket": "eduardo-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770516570175:android:91ec6aaaf35e530505688a",
+        "android_client_info": {
+          "package_name": "co.Eduardo.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770516570175-8m8qhkqa6fulp47uekrsg14np5oeusnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgmBb449ooSBcJPv_Rim62MbkkDniSX1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770516570175-8m8qhkqa6fulp47uekrsg14np5oeusnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
